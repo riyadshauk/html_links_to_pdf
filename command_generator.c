@@ -18,6 +18,6 @@ int main(int argc, char ** argv) {
 	for(i = 0; i < files; i++) {	// file0.html up to fileN.html
 		printf("%s/%d.html ", destination, i);
 	}
-	printf("%s/textbook_letter.pdf", destination);
+	printf("%s/text_letter.pdf", destination);
 	return 0;
 }

@@ -31,10 +31,10 @@ echo "#!/bin/bash" > textbook_create.sh
 sh textbook_create.sh
 
 # cleanup:
-# rm $foldername/*.html
-# rm num_of_files.txt
-# rm generator
-# rm textbook_create.sh
-# rm foldername.txt
+rm $foldername/*.html
+rm num_of_files.txt
+rm generator
+rm textbook_create.sh
+rm foldername.txt
 
 echo $foldername
