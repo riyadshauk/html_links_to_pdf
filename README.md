@@ -1,8 +1,16 @@
-Just hacking together some peoples' different tools to make a tool for myself (and hopefully for others to benefit from)... Trying to just do this fast.
+# html_links_to_pdf
 
-Reference sites of the tools I'm using:
-https://github.com/wkhtmltopdf/wkhtmltopdf
-- http://wkhtmltopdf.org/
-https://github.com/boazsegev/combine_pdf
+This is a tool to convert multiple texts (in html) on different pages into one combined text, as a pdf.
 
-Will add more info later, just want to make stuff work...
+Languages:
+	- BASH
+	- C
+	- Python
+
+Dependency: 
+	- https://github.com/wkhtmltopdf/wkhtmltopdf
+
+P.S. -- My little blurb:
+This tool can be useful for viewing the contents found in various links 
+by scrolling through one pdf. My favorite pdf-viewing platforms are: Google 
+Chrome (using the left- and right-arrows to quickly traverse pages), iBooks (for iOS: useful for viewing various pages of a pdf on one screen). I like these platforms for viewing text in a pdf because they are time-efficient.
